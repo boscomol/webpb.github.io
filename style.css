@@ -200,3 +200,64 @@ footer .company p {
 	line-height: 60px;
 	float: right;
 }
+
+
+
+.title {
+	margin-top: 200px;
+}
+
+.title h1 {
+	font-family: 'Passion One', sans-serif;
+	font-weight: bold;
+}
+
+
+.konten2 {
+	background-color: #110211;
+	margin-top: 40px;
+	padding: 60px;
+}
+
+.form1 {
+	margin: auto;
+	background-color: white;
+	padding: 40px;
+	border-radius: 10px;
+}
+
+.form1 .form-control {
+	background-color: #EAEAEA;
+}
+
+.form1 .form-button {
+	margin-top: 30px;
+}
+
+.tombol {
+	width: 100%;
+	transition: 1s;
+}
+.tombol:hover {
+	transition: 1s;
+}
+
+.form1 .form-link {
+	display: inline-block;
+}
+
+.form1 .form-link a {
+	color: #0D6EFD;
+	text-decoration: none;
+	margin-top: 10px;
+	padding: 0 8px;
+}
+
+.form1 .form-social {
+	width: 100%;
+	margin-top: 20px;
+}
+
+.form1 .form-social i {
+	font-size: 30px;
+}

@@ -33,7 +33,7 @@
           <div class="navbar-nav ml-auto animate__animated animate__fadeInDown">
             <a class="nav-link" href="index.php">Home</a>
             <a class="nav-link" href="#">Download</a>
-            <a class="nav-link" href="#">Login</a>
+            <a class="nav-link" href="signin">Login</a>
           </div>
         </div>
       </div>
@@ -65,8 +65,8 @@
   <div class="jumbotron text-center">
     <h1 class="display-3 text-white user-select-none wow animate__animated animate__jackInTheBox">Point Blank <span>Beyond Limits</span></h1>
     <p class="lead text-white user-select-none wow animate__animated animate__slideInUp">Zepetto Interactive</p>
-    <a class="btn btn-outline-light wow animate__animated animate__zoomIn" href="#" style="border-radius: 0;">Daftar Akun</a>
-    <a class="btn btn-light wow animate__animated animate__zoomIn" href="#" style="border-radius: 0; margin-left: 10px;">Login</a>
+    <a class="btn btn-outline-light wow animate__animated animate__zoomIn" href="signup" style="border-radius: 0;">Daftar Akun</a>
+    <a class="btn btn-light wow animate__animated animate__zoomIn" href="signin" style="border-radius: 0; margin-left: 10px;">Login</a>
   </div>
 
 <!-- Akhir Jumbotron -->
