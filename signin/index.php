@@ -25,15 +25,15 @@
   <div class="my-navbar">
     <nav id="navbar-example" class="navbar navbar-expand-lg menu">
       <div class="container-fluid">
-        <a class="navbar-brand text-uppercase" href="#"><img src="../assets/logo_pointblank.png"> </a><span class="badge bg-success">Indonesia</span>
+        <a class="navbar-brand text-uppercase" href="../index.php"><img src="../assets/logo_pointblank.png"> </a><span class="badge bg-success">Indonesia</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ml-auto animate__animated animate__fadeInDown">
             <a class="nav-link" href="../index.php">Home</a>
-            <a class="nav-link" href="#">Download</a>
-            <a class="nav-link" href="index.php">Login</a>
+            <a class="nav-link" href="../download">Download</a>
+            <a class="nav-link" href="">Login</a>
           </div>
         </div>
       </div>
@@ -41,21 +41,6 @@
   </div>
 
 <!-- Akhir Navbar -->
-
-
-
-<!-- Toogle Cookies
-
-<div class="cookie">
-  <div class="alert alert-info alert-dismissible fade show" role="alert">
-    <strong>This Website is use Cookies!</strong> For more best experience of this website, we use cookies.
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-      <span aria-hidden="true">Ok, boomer!</span>
-    </button>
-  </div>
-</div>
-
--->
 
 
 
@@ -138,7 +123,7 @@
     <!-- Optional JavaScript -->
     <!-- Popper.js first, then Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+    <script src="../js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
 
 
     <!-- Custom JS -->

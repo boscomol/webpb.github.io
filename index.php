@@ -25,14 +25,14 @@
   <div class="my-navbar">
     <nav id="navbar-example" class="navbar navbar-expand-lg menu">
       <div class="container-fluid">
-        <a class="navbar-brand text-uppercase" href="#"><img src="assets/logo_pointblank.png"> </a><span class="badge bg-success">Indonesia</span>
+        <a class="navbar-brand text-uppercase" href="index.php"><img src="assets/logo_pointblank.png"> </a><span class="badge bg-success">Indonesia</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ml-auto animate__animated animate__fadeInDown">
-            <a class="nav-link" href="index.php">Home</a>
-            <a class="nav-link" href="#">Download</a>
+            <a class="nav-link" href="">Home</a>
+            <a class="nav-link" href="download">Download</a>
             <a class="nav-link" href="signin">Login</a>
           </div>
         </div>
@@ -44,29 +44,14 @@
 
 
 
-<!-- Toogle Cookies
-
-<div class="cookie">
-  <div class="alert alert-info alert-dismissible fade show" role="alert">
-    <strong>This Website is use Cookies!</strong> For more best experience of this website, we use cookies.
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-      <span aria-hidden="true">Ok, boomer!</span>
-    </button>
-  </div>
-</div>
-
--->
-
-
-
 
 <!-- Jumbotron -->
 
   <div class="jumbotron text-center">
-    <h1 class="display-3 text-white user-select-none wow animate__animated animate__jackInTheBox">Point Blank <span>Beyond Limits</span></h1>
-    <p class="lead text-white user-select-none wow animate__animated animate__slideInUp">Zepetto Interactive</p>
-    <a class="btn btn-outline-light wow animate__animated animate__zoomIn" href="signup" style="border-radius: 0;">Daftar Akun</a>
-    <a class="btn btn-light wow animate__animated animate__zoomIn" href="signin" style="border-radius: 0; margin-left: 10px;">Login</a>
+    <h1 class="display-3 text-white user-select-none animate__animated animate__zoomIn">Point Blank <span>Beyond Limits</span></h1>
+    <p class="lead text-white user-select-none animate__animated animate__slideInUp">Zepetto Interactive</p>
+    <a class="btn btn-outline-light animate__animated animate__zoomIn" href="signup" style="border-radius: 0;">Daftar Akun</a>
+    <a class="btn btn-light animate__animated animate__zoomIn" href="signin" style="border-radius: 0; margin-left: 10px;">Login</a>
   </div>
 
 <!-- Akhir Jumbotron -->

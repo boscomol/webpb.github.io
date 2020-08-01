@@ -32,7 +32,7 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ml-auto animate__animated animate__fadeInDown">
             <a class="nav-link" href="../index.php">Home</a>
-            <a class="nav-link" href="../download">Download</a>
+            <a class="nav-link" href="">Download</a>
             <a class="nav-link" href="../signin">Login</a>
           </div>
         </div>
@@ -48,7 +48,7 @@
 <!-- Jumbotron -->
 
   <div class="title text-center">
-    <h1 class="display-4 text-white user-select-none animate__animated animate__jackInTheBox">Sign Up</h1>
+    <h1 class="display-4 text-white user-select-none wow animate__animated animate__jackInTheBox">Download</h1>
   </div>
 
 <!-- Akhir Jumbotron -->
@@ -59,23 +59,36 @@
 
   <div class="container-fluid konten2">
 
-    <div class="row">
-      <div class="col-md-4 form1 animate__animated animate__zoomIn">
-        <h4 class="font-weight-bold mb-3">Create an Account</h4>
-        <form action="">
-          <input type="text" class="form-control" placeholder="Username">
-          <input type="email" class="form-control mt-3" placeholder="Email">
-          <input type="password" class="form-control mt-3" placeholder="Password">
-          <input type="password" class="form-control mt-3" placeholder="Confirm Password">
-        </form>
-        <div class="form-button">
-          <button type="button" name="submit" type="submit" class="btn btn-primary tombol">Register</button>
+    <div class="row justify-content-center">
+      <div class="col-md-4 col-md-offset-2">
+        <div class="pricing-table">
+          <h4>Client</h4>
+          <div class="pricing-table-content">
+            <p class="size-box font-weight-bold">Size | <span>2.8 GB</span></p>
+            <hr>
+            <p>Version | <span>Latest Repack Version</span></p>
+            <hr>
+            <p>Last Updated | <span>1 August 2020</span></p>
+
+            <div class="pricing-table-download">
+              <a class="btn btn-outline-light">Download</a>
+            </div>
+          </div>
         </div>
-        <div class="form-link">
-          <a href="../signin">Sudah Punya Akun ?</a>
-          <div class="form-social">
-            <a href="http://discord.com" target="_blank" class="wow animate__animated animate__fadeInLeft"><i class="fab fa-discord"></i></a>
-            <a href="http://facebook.com" target="_blank" class="wow animate__animated animate__fadeInRight"><i class="fab fa-facebook"></i></a>
+      </div>
+      <div class="col-md-4 col-md-offset-2">
+        <div class="pricing-table">
+          <h4>Launcher</h4>
+          <div class="pricing-table-content">
+            <p class="size-box font-weight-bold">Size | <span>1.4 MB</span></p>
+            <hr>
+            <p>Version | <span>0.1 Alpha</span></p>
+            <hr>
+            <p>Last Updated | <span>1 August 2020</span></p>
+
+            <div class="pricing-table-download">
+              <a class="btn btn-outline-light">Download</a>
+            </div>
           </div>
         </div>
       </div>
